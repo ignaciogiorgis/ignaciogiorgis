@@ -1,7 +1,7 @@
 #Soy Ignacio Giorgis 😀😀
 
 ![hello](https://user-images.githubusercontent.com/82051708/132922975-449ad444-2cae-4500-b34a-4a9e00646355.gif)
-![codigo](https://user-images.githubusercontent.com/82051708/132923084-1717a5cc-64b6-43d5-98c8-4fd058a3c611.gif)
+
 
 
 
@@ -11,6 +11,9 @@
 ⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta, proactiva y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
 
 🏫 Actualmente estoy Estudiando En soy Henry, comenzando con el Proyecto Final.
+
+
+![codigo](https://user-images.githubusercontent.com/82051708/132923084-1717a5cc-64b6-43d5-98c8-4fd058a3c611.gif)
 
 🔸🔸🔸Tras Varios Meses de aprender diferentes tecnologias como Javascript, react o Node y luego de realizar el proyecto ya tengo varias apis deployadas y en mi repositorio🔸🔸🔸
 
