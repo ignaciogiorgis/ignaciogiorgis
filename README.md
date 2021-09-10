@@ -1,6 +1,7 @@
 #Soy Ignacio Giorgis 😀😀
 
-![hello](https://user-images.githubusercontent.com/82051708/132922846-1056a798-4c5c-4052-a264-5ae579f998d8.gif)
+![hello](https://user-images.githubusercontent.com/82051708/132922975-449ad444-2cae-4500-b34a-4a9e00646355.gif)
+
 
 
 
