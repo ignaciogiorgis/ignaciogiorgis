@@ -19,6 +19,8 @@
 ![clima](https://user-images.githubusercontent.com/82051708/132920578-a71815ed-1759-4b64-ac05-63f62fe2b45a.png)
 
 💾 Api Pokemon
+![pokemon1](https://user-images.githubusercontent.com/82051708/132921354-8a859f13-329c-424f-ba71-587d3fa910fb.png)
+
 
 
 💾 Api cotizador 
