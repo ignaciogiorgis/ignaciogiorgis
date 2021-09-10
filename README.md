@@ -19,7 +19,13 @@
 ![clima](https://user-images.githubusercontent.com/82051708/132920578-a71815ed-1759-4b64-ac05-63f62fe2b45a.png)
 
 💾 Api Pokemon
-![pokemon1](https://user-images.githubusercontent.com/82051708/132921354-8a859f13-329c-424f-ba71-587d3fa910fb.png)
+
+
+![pokemon1](https://user-images.githubusercontent.com/82051708/132921536-2ca0cd48-90d4-4b34-a8ee-38c7b4e2e950.png)
+![pokemon2](https://user-images.githubusercontent.com/82051708/132921542-de3cc697-3bc8-44d8-8cbd-85ac527628ab.png)
+![pokemon3](https://user-images.githubusercontent.com/82051708/132921515-f91ca1a4-0652-4b80-b97a-fe3916957ab2.png)
+![pokemon4](https://user-images.githubusercontent.com/82051708/132921549-ebd7bd76-c7e6-4a2c-9264-8788cde0239f.png)
+
 
 
 
