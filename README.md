@@ -12,15 +12,25 @@
 💻💻 Hice algunas cosas tambien con PHP y Mysql sumando Boostrap.
 
 ![javascript](https://user-images.githubusercontent.com/82051708/132921651-80dec709-54b2-41fc-8cb3-038250a498df.png)
+
 ![react_original_wordmark_logo_icon_146375](https://user-images.githubusercontent.com/82051708/132921658-e4cee6f5-d403-41d2-8ce7-261f209813ff.png)
+
 ![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/82051708/132921668-ff294528-5873-4053-a16e-58862cd33dba.png)
+
 ![html_filetype_icon_177535](https://user-images.githubusercontent.com/82051708/132921680-2b6ce1a7-c995-4090-9aa4-a80baf798851.png)
+
 ![css_filetype_icon_177544](https://user-images.githubusercontent.com/82051708/132921688-edfcd650-1c98-40f2-8cd1-eee173a032bd.png)
+
 ![brand_node_icon_157859](https://user-images.githubusercontent.com/82051708/132921702-371b6ed5-aa2c-4413-a239-555613582ab0.png)
+
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82051708/132921715-542c94ba-d09c-4028-96d6-3ce3f43a46a8.png)
+
 ![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/82051708/132921721-5ae84b91-824a-480d-9319-8f3e259a30e2.png)
+
 ![php_icon_130857](https://user-images.githubusercontent.com/82051708/132921730-e4bab1a6-15a2-4ea5-b24f-17d2932ad7be.png)
+
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/82051708/132921744-bd29fefd-13f4-414c-ad70-7d29220501fa.png)
+
 
 
 💿💿💿 Algunos de mis proyectos
