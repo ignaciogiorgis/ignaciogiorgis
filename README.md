@@ -1,10 +1,7 @@
 #Soy Ignacio Giorgis 😀😀
 
+![hello](https://user-images.githubusercontent.com/82051708/132922695-8c1b09ab-fc93-4dfe-85d9-a99c5ecb5b9b.gif)
 
-![animacion](https://user-images.githubusercontent.com/82051708/132922410-61b1990a-ec57-4349-a614-dfb50ce14258.gif)
-![animacion](https://user-images.githubusercontent.com/82051708/132922411-1b1c2855-1ab5-4278-8e97-f81f88887344.gif)
-![animacion](https://user-images.githubusercontent.com/82051708/132922416-17a30188-828e-4e17-a0a4-69f137559de0.gif)
-![animacion](https://user-images.githubusercontent.com/82051708/132922418-f73ccc81-f857-4ec7-8a86-11caeb4af8e4.gif)
 
 ☑️   soy desarrollador web Frontend, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta. 
 
