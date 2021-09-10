@@ -11,6 +11,10 @@
 💻💻 Las tecnologias en las que tengo experiencia son Javascript, React, Redux, Html y Css. Tambien vengo trabajando con Node js y Express.
 💻💻 Hice algunas cosas tambien con PHP y Mysql sumando Boostrap.
 
+
+![clima](https://user-images.githubusercontent.com/82051708/132920578-a71815ed-1759-4b64-ac05-63f62fe2b45a.png)
+
+
 💥💥💥 si Te interesa Conocerme:
 
 📟-https://portfolio-ignacio.netlify.app/
