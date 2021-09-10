@@ -1,6 +1,6 @@
 #Soy Ignacio Giorgis 😀😀
-<font color="green"> Some green text </font>
-☑️ soy desarrollador web Frontend, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta.
+
+☑️ <font color="green">  soy desarrollador web Frontend, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta. </font>
 
 ⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta, proactiva y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
 
