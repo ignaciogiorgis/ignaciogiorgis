@@ -1,16 +1,18 @@
-#i'm ignacio 👋
+#Soy Ignacio Giorgis 😀😀
 
-<!--
-**ignaciogiorgis/ignaciogiorgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☑️ soy desarrollador web Frontend, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta.
 
-Here are some ideas to get you started:
+⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta, proactiva y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 Actualmente estoy Estudiando En soy Henry, comenzando con el Proyecto Final.
+
+🔸🔸🔸Tras Varios Meses de aprender diferentes tecnologias como Javascript, react o Node y luego de realizar el proyecto ya tengo varias apis deployadas y en mi repositorio🔸🔸🔸
+
+💻💻 Las tecnologias en las que tengo experiencia son Javascript, React, Redux, Html y Css. Tambien vengo trabajando con Node js y Express.
+💻💻 Hice algunas cosas tambien con PHP y Mysql sumando Boostrap.
+
+💥💥💥 si Te interesa Conocerme:
+
+📟-https://portfolio-ignacio.netlify.app/
+📭-ignaciogiorgis2016@gmail.com
+🔗https://www.linkedin.com/in/ignacio-giorgis/
