@@ -65,10 +65,10 @@
 
 💾 Api Drinks
 
+![bebidas1](https://user-images.githubusercontent.com/82051708/133948451-51359e82-aaac-4b67-a086-3225eccc524d.png)
+![bebidas3](https://user-images.githubusercontent.com/82051708/133948454-93c00a18-eac6-4d3b-b5e7-3a91a7bd9bbc.png)
+![bebidas2](https://user-images.githubusercontent.com/82051708/133948457-e3041f73-aafc-42f4-b270-ea9f099bd8d5.png)
 
-![bebidas1](https://user-images.githubusercontent.com/82051708/133948353-b9ad6574-4b3a-41a4-8b67-c3526629d4ef.png)
-![bebidas2](https://user-images.githubusercontent.com/82051708/133948344-b553bcbb-f616-43e6-81b8-94569071f124.png)
-![bebidas3](https://user-images.githubusercontent.com/82051708/133948347-979d4ce0-16e3-4d4a-bbc9-6a42e01476d2.png)
 
 
 
