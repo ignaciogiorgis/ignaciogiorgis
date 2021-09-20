@@ -37,9 +37,10 @@
 
 💾 Api del clima 
 
-![bebidas1](https://user-images.githubusercontent.com/82051708/133948353-b9ad6574-4b3a-41a4-8b67-c3526629d4ef.png)
-![bebidas2](https://user-images.githubusercontent.com/82051708/133948344-b553bcbb-f616-43e6-81b8-94569071f124.png)
-![bebidas3](https://user-images.githubusercontent.com/82051708/133948347-979d4ce0-16e3-4d4a-bbc9-6a42e01476d2.png)
+
+![clima](https://user-images.githubusercontent.com/82051708/133948388-72479c1c-deb1-4dca-81d0-bcc9d5c2b448.png)
+
+
 
 
 💾 Api Pokemon
@@ -53,9 +54,6 @@
 
 💾 Api cotizador 
 
-![bebidas1](https://user-images.githubusercontent.com/82051708/133948341-de76a643-c283-4d99-ab05-1e6a571e6b6a.png)
-
-
 
 ![cotizador](https://user-images.githubusercontent.com/82051708/132920894-df2f7ea5-44da-44e2-8f1d-fb54ba201757.png)
 
@@ -68,6 +66,9 @@
 💾 Api Drinks
 
 
+![bebidas1](https://user-images.githubusercontent.com/82051708/133948353-b9ad6574-4b3a-41a4-8b67-c3526629d4ef.png)
+![bebidas2](https://user-images.githubusercontent.com/82051708/133948344-b553bcbb-f616-43e6-81b8-94569071f124.png)
+![bebidas3](https://user-images.githubusercontent.com/82051708/133948347-979d4ce0-16e3-4d4a-bbc9-6a42e01476d2.png)
 
 
 
