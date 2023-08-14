@@ -42,7 +42,6 @@
 
 💥💥💥 si Te interesa Conocerme:
 
-📟-https://pf-ignacio.netlify.app/
   
 
 📭-ignaciogiorgis2016@gmail.com
