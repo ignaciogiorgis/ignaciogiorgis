@@ -37,44 +37,6 @@
 
 
 
-💿💿💿 Algunos de mis proyectos
-
-💾 Api del clima 
-
-
-![clima](https://user-images.githubusercontent.com/82051708/133948388-72479c1c-deb1-4dca-81d0-bcc9d5c2b448.png)
-
-
-
-
-💾 Api Pokemon
-
-
-![pokemon1](https://user-images.githubusercontent.com/82051708/132921536-2ca0cd48-90d4-4b34-a8ee-38c7b4e2e950.png)
-![pokemon2](https://user-images.githubusercontent.com/82051708/132921542-de3cc697-3bc8-44d8-8cbd-85ac527628ab.png)
-![pokemon3](https://user-images.githubusercontent.com/82051708/132921515-f91ca1a4-0652-4b80-b97a-fe3916957ab2.png)
-![pokemon4](https://user-images.githubusercontent.com/82051708/132921549-ebd7bd76-c7e6-4a2c-9264-8788cde0239f.png)
-
-
-
-💾 Api Drinks
-
-![bebidas1](https://user-images.githubusercontent.com/82051708/133948451-51359e82-aaac-4b67-a086-3225eccc524d.png)
-![bebidas3](https://user-images.githubusercontent.com/82051708/133948454-93c00a18-eac6-4d3b-b5e7-3a91a7bd9bbc.png)
-![bebidas2](https://user-images.githubusercontent.com/82051708/133948457-e3041f73-aafc-42f4-b270-ea9f099bd8d5.png)
-
-
-💾 Api Villa Tranquila
-
-
-![Villa (1)](https://user-images.githubusercontent.com/82051708/139537684-20ace325-bb02-4bc5-854e-b9e4678ae425.png)
-![Villa (2)](https://user-images.githubusercontent.com/82051708/139537688-e50d5e4e-ebbb-475c-8719-d9c8e57f6621.png)
-![Villa (3)](https://user-images.githubusercontent.com/82051708/139537693-2ae1320f-8a76-484b-ad4e-81ce6a4605ed.png)
-![Villa (4)](https://user-images.githubusercontent.com/82051708/139537696-558b70aa-81da-4ee7-850f-8e3af0356192.png)
-![Villa (5)](https://user-images.githubusercontent.com/82051708/139537697-292d76f1-2f09-4b45-bd9e-c74f73ae3106.png)
-
-
-
 
 
 
