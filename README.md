@@ -27,8 +27,7 @@
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82051708/132921715-542c94ba-d09c-4028-96d6-3ce3f43a46a8.png)
 ![317712_code repository_github_repository_resource_icon](https://user-images.githubusercontent.com/82051708/139537248-b1be8f95-9aef-46fb-a897-9772b99e6d3f.png)
 ![1608905_git_square_icon](https://user-images.githubusercontent.com/82051708/139537257-df56a3d8-2bf2-43af-be37-5846d78480f1.png) 
-
-
+![next-js-icon-logo-EE302D5DBD-seeklogo com](https://github.com/ignaciogiorgis/ignaciogiorgis/assets/82051708/4b13c25b-a690-4048-8f30-1af76a37af96)
 
 
 
