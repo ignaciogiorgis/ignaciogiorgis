@@ -16,7 +16,7 @@
 ![codigo](https://user-images.githubusercontent.com/82051708/132923084-1717a5cc-64b6-43d5-98c8-4fd058a3c611.gif)
 
 
-💻💻 Las tecnologias en las que tengo experiencia son Javascript, React, Redux, Html, Css, tailwind y bootstrap . Tambien vengo trabajando con Node js y Express.
+💻💻 Las tecnologias en las que tengo experiencia son Javascript, React, Next, Redux, Html, Css, tailwind y bootstrap . Tambien vengo trabajando con Node js y Express.
 
 ![javascript](https://user-images.githubusercontent.com/82051708/132921651-80dec709-54b2-41fc-8cb3-038250a498df.png)
 ![react_original_wordmark_logo_icon_146375](https://user-images.githubusercontent.com/82051708/132921658-e4cee6f5-d403-41d2-8ce7-261f209813ff.png)
