@@ -10,7 +10,7 @@
 
 ⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta, proactiva y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
 
-🏫 Graduado de Soy Henry!!!
+🏫 Graduado de Soy Henry!!! y Actual estudiante de Lic en informatica de la Universidad Siglo 21
 
 
 ![codigo](https://user-images.githubusercontent.com/82051708/132923084-1717a5cc-64b6-43d5-98c8-4fd058a3c611.gif)
