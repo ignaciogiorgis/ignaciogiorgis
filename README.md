@@ -27,7 +27,7 @@
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82051708/132921715-542c94ba-d09c-4028-96d6-3ce3f43a46a8.png)
 ![317712_code repository_github_repository_resource_icon](https://user-images.githubusercontent.com/82051708/139537248-b1be8f95-9aef-46fb-a897-9772b99e6d3f.png)
 ![1608905_git_square_icon](https://user-images.githubusercontent.com/82051708/139537257-df56a3d8-2bf2-43af-be37-5846d78480f1.png)
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F87%2F586%2Fpng-transparent-next-js-hd-logo.png&tbnid=HuNLeQBWL_57MM&vet=10CAIQxiAoAGoXChMI6KTE_Zz-gQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-azcax&docid=-XAOXSoI89Ev9M&w=920&h=920&itg=1&q=SIMBOLO%20DE%20NEXT%20JS&ved=0CAIQxiAoAGoXChMI6KTE_Zz-gQMVAAAAAB0AAAAAEAc
+
 
 
 
