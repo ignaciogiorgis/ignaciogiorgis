@@ -28,7 +28,7 @@
 ![317712_code repository_github_repository_resource_icon](https://user-images.githubusercontent.com/82051708/139537248-b1be8f95-9aef-46fb-a897-9772b99e6d3f.png)
 ![1608905_git_square_icon](https://user-images.githubusercontent.com/82051708/139537257-df56a3d8-2bf2-43af-be37-5846d78480f1.png) 
 ![next-js-icon-logo-EE302D5DBD-seeklogo com (1)](https://github.com/ignaciogiorgis/ignaciogiorgis/assets/82051708/cc0a4524-3a0f-48d3-93a5-613ab5f0d43d)
-
+![tailwind (1)](https://github.com/ignaciogiorgis/ignaciogiorgis/assets/82051708/2ee56735-39c0-40a8-84fc-eb414c4f9250)
 
 
 
