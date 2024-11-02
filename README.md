@@ -6,9 +6,9 @@
 
 
 
-☑️   soy desarrollador web Frontend, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta. 
+☑️   soy desarrollador web Full Stack, me gusta tener la posibilidad de resolver problemas reales dándole mi impronta. 
 
-⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta, proactiva y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
+⚡⚡⚡ Me autodefino como una persona comunicativa, autodidacta y comprometida al trabajo en equipo. Estoy en búsqueda de nuevos desafíos en desarrollo web, donde pueda seguir creciendo profesionalmente.⚡⚡⚡
 
 🏫 Graduado de Soy Henry!!! y Actual estudiante de Lic en informatica de la Universidad Siglo 21 
 
@@ -24,7 +24,6 @@
 ![html_filetype_icon_177535](https://user-images.githubusercontent.com/82051708/132921680-2b6ce1a7-c995-4090-9aa4-a80baf798851.png)
 ![css_filetype_icon_177544](https://user-images.githubusercontent.com/82051708/132921688-edfcd650-1c98-40f2-8cd1-eee173a032bd.png)
 ![brand_node_icon_157859](https://user-images.githubusercontent.com/82051708/132921702-371b6ed5-aa2c-4413-a239-555613582ab0.png)
-![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82051708/132921715-542c94ba-d09c-4028-96d6-3ce3f43a46a8.png)
 ![317712_code repository_github_repository_resource_icon](https://user-images.githubusercontent.com/82051708/139537248-b1be8f95-9aef-46fb-a897-9772b99e6d3f.png)
 ![1608905_git_square_icon](https://user-images.githubusercontent.com/82051708/139537257-df56a3d8-2bf2-43af-be37-5846d78480f1.png) 
 ![next-js-icon-logo-EE302D5DBD-seeklogo com (1)](https://github.com/ignaciogiorgis/ignaciogiorgis/assets/82051708/cc0a4524-3a0f-48d3-93a5-613ab5f0d43d)
